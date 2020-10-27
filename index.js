@@ -25,9 +25,6 @@ client.on('message', (message) => {
   if(message.content === '두산베어스') {
     message.reply('두산베어스=킬러 (이유: 방장이니까)');
   }
-  if(message.content === '겜덕') {
-    message.reply('ㅗㅗㅗ');
-  }
   if(message.content === 'ㅎㅇ') {
     message.reply('안녕하세요');
   }
