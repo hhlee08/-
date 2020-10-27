@@ -1,0 +1,12 @@
+{
+  "name": "dkssudgktpdy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "l": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
